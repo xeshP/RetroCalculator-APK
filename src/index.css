@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=VT323&family=Major+Mono+Display&family=DM+Mono:wght@300;400;500&display=swap');
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: #0d0a07;
+  overscroll-behavior: none;
+  -webkit-tap-highlight-color: transparent;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+#root {
+  min-height: 100vh;
+  min-height: 100dvh;
+}

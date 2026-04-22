@@ -1,0 +1,8 @@
+{
+  "appId": "com.retro80.calculator",
+  "appName": "Retro-80",
+  "webDir": "dist",
+  "android": {
+    "allowMixedContent": false
+  }
+}
